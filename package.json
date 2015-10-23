@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "Todo list",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "Natalie Akam, David Upsdale",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^5.8.25",
+    "jquery": "^2.1.4",
+    "react": "^0.14.0",
+    "react-dom": "^0.14.0"
+  },
+  "devDependencies": {
+    "karma": "^0.13.14",
+    "karma-chrome-launcher": "^0.2.1",
+    "karma-cli": "^0.1.1",
+    "webpack": "^1.12.2"
+  }
+}
